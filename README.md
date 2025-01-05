@@ -11,7 +11,7 @@ This project is a simple PHP-based registration form. The form includes basic va
 
 ## Requirements
 
-- PHP 7.4 or higher
+- PHP 
 - A web server 
 - A web browser
 
