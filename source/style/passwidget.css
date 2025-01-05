@@ -1,0 +1,48 @@
+.passwidgetdiv
+{
+	width:225px;
+}
+
+.passfield
+{
+    display:block;
+}
+
+.passopsdiv
+{
+	display: block;
+	float: left;
+	margin-right:6px;	
+}
+.passopsdiv a
+{
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 10px; 
+}
+
+.passstrengthbar
+{
+	float:right;
+	background:#cccccc;
+	height:4px;
+	margin:0;
+}
+
+.passstrength
+{
+	float:right; 
+	height:20px;
+	width:70px;
+	margin-top:3px;
+
+}
+.passstrengthstr
+{
+    float:right;
+	clear:both;
+	height:14px;
+	margin-top:0px;
+	font-family : Arial, Helvetica, sans-serif;
+	font-size : 10px; 
+
+}
